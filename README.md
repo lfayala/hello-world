@@ -1,2 +1,2 @@
 # hello-world
-First time using GitHub
+Software engineer making it´s way into Data Science
